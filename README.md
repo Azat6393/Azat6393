@@ -1,6 +1,6 @@
 #   Hi, I’m @Azat6393
 # 💫 About Me:
-🔭 I’m currently working on Android programming.<br>🌱 I’m currently learning the backend with Ktor.<br>👯 I'm looking to collaborate with an experienced team.<br>💬 Ask me about Kotlin, Java, and Android.<br>
+🔭 I’m currently working on Android programming.<br>👯 I'm looking to collaborate with an experienced team.<br>💬 Ask me about Kotlin, Java, and Android.<br>
 
 
 ## 🌐 Socials:
